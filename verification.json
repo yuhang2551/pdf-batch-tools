@@ -1,0 +1,33 @@
+{
+  "recorded_at_utc": "2026-09-07T11:55:18.326371+00:00",
+  "project": "pdf-batch-tools",
+  "command": "python -m unittest -v",
+  "python_version": "3.12.14",
+  "os": "Darwin",
+  "tests_run": 13,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "test_methods": [
+    "test_all_operations_preserve_structure",
+    "test_annotations_rejected",
+    "test_duplicate_output_rejected",
+    "test_encryption_rejected",
+    "test_invalid_file",
+    "test_nonzero_origin_rejected",
+    "test_output_never_overwritten",
+    "test_output_path_rejected",
+    "test_path_traversal_rejected",
+    "test_preflight_no_partial_batch",
+    "test_rotated_input_rejected",
+    "test_source_preserved_and_hashes_match",
+    "test_unknown_operation"
+  ],
+  "source_sha256": {
+    "demo.py": "2ce9dcf279798d8de9a624a3bb12ca39df6e7367c4389104556585e339a7ddae",
+    "pdf_batch.py": "f7bec72898d7c992330f008b02cdf2ced5d8400b2c6e81abe02b7bfddf262db5",
+    "test_pdf_batch.py": "dd81f899aaa4bbf764fdc11458a87b34493a635e27f3c510cef9e53863fa43fe",
+    "verify_rendering.py": "7bc4949646c1e5105f72f1a98c5a4f088878c63e9b5d4cf9dfe48dace89299e0"
+  },
+  "scope": "Local automated checks of the documented synthetic fixtures; not production acceptance or an accuracy estimate."
+}

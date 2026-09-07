@@ -1,0 +1,409 @@
+{
+  "files_rendered_and_compared": 80,
+  "resolution_dpi": 72,
+  "mean_absolute_rgb_error_limit": 2.0,
+  "max_observed_mean_absolute_rgb_error": 0.54407,
+  "scope": "Self-created one-page fixtures only. Includes mirrored text by design.",
+  "files": [
+    {
+      "file": "schematic_001.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.540208
+    },
+    {
+      "file": "schematic_002.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009519
+    },
+    {
+      "file": "schematic_003.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.54288
+    },
+    {
+      "file": "schematic_004.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_005.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.541942
+    },
+    {
+      "file": "schematic_006.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009533
+    },
+    {
+      "file": "schematic_007.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.540276
+    },
+    {
+      "file": "schematic_008.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_009.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.54407
+    },
+    {
+      "file": "schematic_010.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009552
+    },
+    {
+      "file": "schematic_011.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.535721
+    },
+    {
+      "file": "schematic_012.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_013.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.538197
+    },
+    {
+      "file": "schematic_014.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009571
+    },
+    {
+      "file": "schematic_015.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.537508
+    },
+    {
+      "file": "schematic_016.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_017.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.535659
+    },
+    {
+      "file": "schematic_018.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009644
+    },
+    {
+      "file": "schematic_019.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.539585
+    },
+    {
+      "file": "schematic_020.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_021.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.537078
+    },
+    {
+      "file": "schematic_022.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009538
+    },
+    {
+      "file": "schematic_023.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.539708
+    },
+    {
+      "file": "schematic_024.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_025.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.538812
+    },
+    {
+      "file": "schematic_026.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009553
+    },
+    {
+      "file": "schematic_027.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.537104
+    },
+    {
+      "file": "schematic_028.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_029.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.54094
+    },
+    {
+      "file": "schematic_030.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009581
+    },
+    {
+      "file": "schematic_031.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.538287
+    },
+    {
+      "file": "schematic_032.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_033.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.540685
+    },
+    {
+      "file": "schematic_034.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009601
+    },
+    {
+      "file": "schematic_035.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.540074
+    },
+    {
+      "file": "schematic_036.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_037.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.538147
+    },
+    {
+      "file": "schematic_038.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009673
+    },
+    {
+      "file": "schematic_039.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.542151
+    },
+    {
+      "file": "schematic_040.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_041.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.53766
+    },
+    {
+      "file": "schematic_042.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009524
+    },
+    {
+      "file": "schematic_043.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.540283
+    },
+    {
+      "file": "schematic_044.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_045.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.539394
+    },
+    {
+      "file": "schematic_046.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009538
+    },
+    {
+      "file": "schematic_047.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.53768
+    },
+    {
+      "file": "schematic_048.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_049.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.541522
+    },
+    {
+      "file": "schematic_050.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.00961
+    },
+    {
+      "file": "schematic_051.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.537602
+    },
+    {
+      "file": "schematic_052.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_053.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.539997
+    },
+    {
+      "file": "schematic_054.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.00963
+    },
+    {
+      "file": "schematic_055.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.539389
+    },
+    {
+      "file": "schematic_056.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_057.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.537459
+    },
+    {
+      "file": "schematic_058.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009702
+    },
+    {
+      "file": "schematic_059.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.541466
+    },
+    {
+      "file": "schematic_060.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_061.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.539382
+    },
+    {
+      "file": "schematic_062.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009574
+    },
+    {
+      "file": "schematic_063.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.54206
+    },
+    {
+      "file": "schematic_064.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_065.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.541116
+    },
+    {
+      "file": "schematic_066.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009589
+    },
+    {
+      "file": "schematic_067.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.539456
+    },
+    {
+      "file": "schematic_068.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_069.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.543245
+    },
+    {
+      "file": "schematic_070.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009521
+    },
+    {
+      "file": "schematic_071.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.535696
+    },
+    {
+      "file": "schematic_072.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_073.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.538194
+    },
+    {
+      "file": "schematic_074.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009541
+    },
+    {
+      "file": "schematic_075.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.537483
+    },
+    {
+      "file": "schematic_076.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    },
+    {
+      "file": "schematic_077.pdf",
+      "operation": "mirror_horizontal",
+      "mean_absolute_rgb_difference_0_to_255": 0.535656
+    },
+    {
+      "file": "schematic_078.pdf",
+      "operation": "mirror_vertical",
+      "mean_absolute_rgb_difference_0_to_255": 0.009614
+    },
+    {
+      "file": "schematic_079.pdf",
+      "operation": "rotate_180",
+      "mean_absolute_rgb_difference_0_to_255": 0.53956
+    },
+    {
+      "file": "schematic_080.pdf",
+      "operation": "copy",
+      "mean_absolute_rgb_difference_0_to_255": 0.0
+    }
+  ]
+}
